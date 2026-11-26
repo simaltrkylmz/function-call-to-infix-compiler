@@ -1,4 +1,4 @@
-🇬🇧 English | [🇹🇷 Türkçe](README.tr.md)
+English | [Türkçe](README.tr.md)
 
 # Function-Call to Infix Compiler
 
