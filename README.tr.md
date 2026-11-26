@@ -1,4 +1,4 @@
-[🇬🇧 English](README.md) | 🇹🇷 Türkçe
+[English](README.md) | Türkçe
 
 # Fonksiyon Çağrısından Infix'e Derleyici
 
